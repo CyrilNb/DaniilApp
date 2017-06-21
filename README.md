@@ -17,7 +17,7 @@ Just build and run the android project under Android Studio
 
 ## Screenshots
 
-![tab_1](https://github.com/CyrilNb/DaniilApp/blob/master/screenshots/tab1.png "tab-1") ![tab_2](https://github.com/CyrilNb/DaniilApp/blob/master/screenshots/tab2.png "tab-2")
+![tab_1](https://github.com/CyrilNb/DaniilApp/blob/master/screenshots/tab1.png "tab-1") ![tab_2](https://github.com/CyrilNb/DaniilApp/blob/master/screenshots/tab2.png "tab-2") ![tab_4](https://github.com/CyrilNb/DaniilApp/blob/master/screenshots/tab4.png "tab-4")
 
 ## Credits
 
