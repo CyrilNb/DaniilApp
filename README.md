@@ -11,9 +11,13 @@ The purpose was to build an android app to try out this following library:
 - AppRate
 - Admob library
 
-## Usage
+## Installation and usage
 
 Just build and run the android project under Android Studio
+
+or
+
+directly download the [APK file](https://github.com/CyrilNb/DaniilApp/blob/master/daniilApp.apk)
 
 ## Screenshots
 
