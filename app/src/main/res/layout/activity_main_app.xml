@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+   <com.astuetz.PagerSlidingTabStrip
+        android:id="@+id/tabs"
+        android:layout_width="match_parent"
+        android:layout_height="58dp"
+        android:background="@color/colorFacebookFragment"
+        android:textColor="@android:color/white"
+        app:pstsIndicatorColor="@android:color/white"
+        app:pstsIndicatorHeight="4dp"
+        app:pstsShouldExpand="true"
+
+       />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="381dp"
+        android:background="@android:color/white"
+        android:layout_weight="1"
+        android:layout_gravity="center"/>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        app:adSize="SMART_BANNER"
+        app:adUnitId="ca-app-pub-2373549811754777/4282972448"
+        android:layout_weight="2" />
+
+
+</LinearLayout>

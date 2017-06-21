@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/rate"
+        android:orderInCategory="1"
+        android:title="Noter l'application"
+        android:icon="@drawable/ic_star_rate_black_18dp"
+        android:onClick="rate"
+
+    />
+    <item
+        android:id="@+id/aboutDev"
+        android:orderInCategory="2"
+        android:title="Autres Apps du développeur"
+        android:icon="@drawable/ic_adb_black_36dp"
+        android:onClick="otherApps"
+        />
+</menu>

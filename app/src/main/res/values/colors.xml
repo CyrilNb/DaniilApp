@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorYoutubeFragment">#CC181E</color>
+    <color name="colorFacebookFragment">#3B5998</color>
+    <color name="colorSoundboxFragment">#3F9FE0</color>
+    <color name="colorShowFragment">#F4842D</color>
+    <color name="colorNetworksFragment">#7253A7</color>
+    96AA39
+</resources>
